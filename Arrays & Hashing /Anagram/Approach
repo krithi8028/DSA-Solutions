@@ -1,1 +1,20 @@
+Approach 1:
+Check String Lengths:
+        If the lengths of the two input strings s and t are not equal, they cannot be anagrams, so we return False.
+Count Character Frequencies:
+        Create two dictionaries, CountS and CountT, to store the frequency of each character in the respective strings.
+        Iterate through the characters in s and t, and update the corresponding character counts in the respective dictionaries.
+Compare Character Frequencies:
+        Iterate through the keys (characters) in the CountS dictionary.
+        For each character, check if the count in CountS is the same as the count in CountT (using the get() method to handle missing keys).
+        If any character count is different, the strings are not anagrams, so we return False.
+Return Result:
+        If the loop completes without returning False, the strings are anagrams, so we return True.
 
+Approach 2: 
+This Prolem can also be solved using Counters 
+  by just returning  Counter(s)==Counter(t)
+
+Approach 3:
+Sorted(s)==Sorted (t)
+  But this increases the time complexity
