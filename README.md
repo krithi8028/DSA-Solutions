@@ -46,4 +46,12 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/krithi8028/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/krithi8028/DSA-Solutions/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/krithi8028/DSA-Solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
