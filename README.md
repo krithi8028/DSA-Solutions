@@ -14,6 +14,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/krithi8028/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/krithi8028/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/krithi8028/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/krithi8028/DSA-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Hash Table
 |  |
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krithi8028/DSA-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/krithi8028/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
