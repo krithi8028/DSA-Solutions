@@ -7,6 +7,7 @@
 | [0035-search-insert-position](https://github.com/krithi8028/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/krithi8028/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/krithi8028/DSA-Solutions/tree/master/0046-permutations) |
 | [0792-binary-search](https://github.com/krithi8028/DSA-Solutions/tree/master/0792-binary-search) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krithi8028/DSA-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/krithi8028/DSA-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/krithi8028/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/krithi8028/DSA-Solutions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/krithi8028/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
