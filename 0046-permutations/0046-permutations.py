@@ -1,28 +1,19 @@
 class Solution(object):
     def permute(self, nums):
         #Recursive code
-        stack = []
-        mapp = {num: 0 for num in nums} 
+        
         ans = []
 
 
-        def subseq(stack,mapp):
-            if len(stack)==len(nums):
-                ans.append(stack[:])
+        def subseq(index):
+            if index==len(nums):
+                ans.append(nums[:])
                 return 
-            for i in nums:
-                if mapp[i]==0:
-                    mapp[i]=1
-                    stack.append(i)
-                    subseq(stack,mapp)
-                    stack.pop()
-                    mapp[i]=0
+            for i in range(index,len(nums)):
+                nums[index], nums[i] = nums[i], nums[index]
+                subseq(index + 1)
+                nums[index], nums[i] = nums[i], nums[index]
             
-            
-            
-            
-            
-
-        subseq(stack,mapp)
+        subseq(0)
         return ans
         
