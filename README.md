@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/krithi8028/DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/krithi8028/DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/krithi8028/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/krithi8028/DSA-Solutions/tree/master/0046-permutations) |
@@ -15,6 +16,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/krithi8028/DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/krithi8028/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/krithi8028/DSA-Solutions/tree/master/0046-permutations) |
@@ -32,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/krithi8028/DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krithi8028/DSA-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
 |  |
@@ -65,4 +68,8 @@
 |  |
 | ------- |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/krithi8028/DSA-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/krithi8028/DSA-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
