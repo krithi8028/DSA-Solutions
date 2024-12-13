@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/krithi8028/DSA-Solutions/tree/master/0051-n-queens) |
 | [0792-binary-search](https://github.com/krithi8028/DSA-Solutions/tree/master/0792-binary-search) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krithi8028/DSA-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/krithi8028/DSA-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/krithi8028/DSA-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Backtracking
 |  |
@@ -37,6 +38,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/krithi8028/DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krithi8028/DSA-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/krithi8028/DSA-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krithi8028/DSA-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/krithi8028/DSA-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/krithi8028/DSA-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Dynamic Programming
 |  |
@@ -74,4 +77,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/krithi8028/DSA-Solutions/tree/master/0037-sudoku-solver) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/krithi8028/DSA-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Simulation
+|  |
+| ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/krithi8028/DSA-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 <!---LeetCode Topics End-->
