@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/krithi8028/DSA-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/krithi8028/DSA-Solutions/tree/master/0051-n-queens) |
 | [0792-binary-search](https://github.com/krithi8028/DSA-Solutions/tree/master/0792-binary-search) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/krithi8028/DSA-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/krithi8028/DSA-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krithi8028/DSA-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/krithi8028/DSA-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -88,4 +89,12 @@
 |  |
 | ------- |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/krithi8028/DSA-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/krithi8028/DSA-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/krithi8028/DSA-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
