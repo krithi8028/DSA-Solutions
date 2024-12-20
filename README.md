@@ -102,4 +102,20 @@
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/krithi8028/DSA-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/krithi8028/DSA-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/krithi8028/DSA-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/krithi8028/DSA-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/krithi8028/DSA-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/krithi8028/DSA-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
