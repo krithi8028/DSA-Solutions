@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/krithi8028/DSA-Solutions/tree/master/0051-n-queens) |
 | [0780-max-chunks-to-make-sorted](https://github.com/krithi8028/DSA-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/krithi8028/DSA-Solutions/tree/master/0792-binary-search) |
+| [0875-longest-mountain-in-array](https://github.com/krithi8028/DSA-Solutions/tree/master/0875-longest-mountain-in-array) |
 | [1063-best-sightseeing-pair](https://github.com/krithi8028/DSA-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/krithi8028/DSA-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/krithi8028/DSA-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/krithi8028/DSA-Solutions/tree/master/0875-longest-mountain-in-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/krithi8028/DSA-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## String
 |  |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/krithi8028/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0875-longest-mountain-in-array](https://github.com/krithi8028/DSA-Solutions/tree/master/0875-longest-mountain-in-array) |
 | [1063-best-sightseeing-pair](https://github.com/krithi8028/DSA-Solutions/tree/master/1063-best-sightseeing-pair) |
 ## Math
 |  |
@@ -122,4 +125,8 @@
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/krithi8028/DSA-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/krithi8028/DSA-Solutions/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
