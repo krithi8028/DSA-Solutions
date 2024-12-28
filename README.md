@@ -11,6 +11,7 @@
 | [0040-combination-sum-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/krithi8028/DSA-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/krithi8028/DSA-Solutions/tree/master/0051-n-queens) |
+| [0219-contains-duplicate-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/krithi8028/DSA-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/krithi8028/DSA-Solutions/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/krithi8028/DSA-Solutions/tree/master/0875-longest-mountain-in-array) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/krithi8028/DSA-Solutions/tree/master/0037-sudoku-solver) |
+| [0219-contains-duplicate-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krithi8028/DSA-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/krithi8028/DSA-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Binary Search
@@ -85,6 +87,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/krithi8028/DSA-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Matrix
 |  |
