@@ -72,10 +72,12 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/krithi8028/DSA-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/krithi8028/DSA-Solutions/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/krithi8028/DSA-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/krithi8028/DSA-Solutions/tree/master/0060-permutation-sequence) |
 ## Sliding Window
 |  |
