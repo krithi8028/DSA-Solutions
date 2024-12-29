@@ -74,6 +74,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/krithi8028/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/krithi8028/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0518-coin-change-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [0875-longest-mountain-in-array](https://github.com/krithi8028/DSA-Solutions/tree/master/0875-longest-mountain-in-array) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/krithi8028/DSA-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/krithi8028/DSA-Solutions/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/krithi8028/DSA-Solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/krithi8028/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/krithi8028/DSA-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
