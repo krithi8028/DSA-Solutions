@@ -19,6 +19,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/krithi8028/DSA-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/krithi8028/DSA-Solutions/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/krithi8028/DSA-Solutions/tree/master/0875-longest-mountain-in-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/krithi8028/DSA-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/krithi8028/DSA-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/krithi8028/DSA-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/krithi8028/DSA-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -82,6 +83,7 @@
 | [0131-palindrome-partitioning](https://github.com/krithi8028/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0518-coin-change-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [0875-longest-mountain-in-array](https://github.com/krithi8028/DSA-Solutions/tree/master/0875-longest-mountain-in-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/krithi8028/DSA-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/krithi8028/DSA-Solutions/tree/master/1063-best-sightseeing-pair) |
 ## Math
 |  |
