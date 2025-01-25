@@ -45,12 +45,14 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/krithi8028/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0451-sort-characters-by-frequency](https://github.com/krithi8028/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/krithi8028/DSA-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/krithi8028/DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/krithi8028/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krithi8028/DSA-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/krithi8028/DSA-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Binary Search
@@ -71,6 +73,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/krithi8028/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0780-max-chunks-to-make-sorted](https://github.com/krithi8028/DSA-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krithi8028/DSA-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/krithi8028/DSA-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -112,6 +115,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/krithi8028/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1917-maximum-average-pass-ratio](https://github.com/krithi8028/DSA-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/krithi8028/DSA-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Simulation
@@ -162,4 +166,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krithi8028/DSA-Solutions/tree/master/0053-maximum-subarray) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/krithi8028/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/krithi8028/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
