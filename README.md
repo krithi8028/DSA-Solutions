@@ -16,6 +16,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/krithi8028/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0518-coin-change-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0518-coin-change-ii) |
+| [0692-top-k-frequent-words](https://github.com/krithi8028/DSA-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/krithi8028/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/krithi8028/DSA-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/krithi8028/DSA-Solutions/tree/master/0792-binary-search) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/krithi8028/DSA-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0451-sort-characters-by-frequency](https://github.com/krithi8028/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/krithi8028/DSA-Solutions/tree/master/0692-top-k-frequent-words) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/krithi8028/DSA-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Hash Table
 |  |
@@ -53,6 +55,7 @@
 | [0037-sudoku-solver](https://github.com/krithi8028/DSA-Solutions/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/krithi8028/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/krithi8028/DSA-Solutions/tree/master/0692-top-k-frequent-words) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krithi8028/DSA-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/krithi8028/DSA-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Binary Search
@@ -74,6 +77,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/krithi8028/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/krithi8028/DSA-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0780-max-chunks-to-make-sorted](https://github.com/krithi8028/DSA-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/krithi8028/DSA-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/krithi8028/DSA-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -116,6 +120,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/krithi8028/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/krithi8028/DSA-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1917-maximum-average-pass-ratio](https://github.com/krithi8028/DSA-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/krithi8028/DSA-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Simulation
@@ -170,8 +175,14 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/krithi8028/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/krithi8028/DSA-Solutions/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/krithi8028/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/krithi8028/DSA-Solutions/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/krithi8028/DSA-Solutions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
