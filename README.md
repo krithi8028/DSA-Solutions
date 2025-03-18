@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/krithi8028/DSA-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/krithi8028/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/krithi8028/DSA-Solutions/tree/master/0064-minimum-path-sum) |
+| [0189-rotate-array](https://github.com/krithi8028/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/krithi8028/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0518-coin-change-ii](https://github.com/krithi8028/DSA-Solutions/tree/master/0518-coin-change-ii) |
@@ -40,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/krithi8028/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0875-longest-mountain-in-array](https://github.com/krithi8028/DSA-Solutions/tree/master/0875-longest-mountain-in-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/krithi8028/DSA-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## String
@@ -99,6 +101,7 @@
 | [0050-powx-n](https://github.com/krithi8028/DSA-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/krithi8028/DSA-Solutions/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/krithi8028/DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/krithi8028/DSA-Solutions/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
